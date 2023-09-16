@@ -1,0 +1,6 @@
+/home/anonimus/C7_SmartCalc_v1.0-1/src/build-QSmartCalc-Desktop-Debug/CMakeFiles/CalcLib.dir
+/home/anonimus/C7_SmartCalc_v1.0-1/src/build-QSmartCalc-Desktop-Debug/CMakeFiles/QSmartCalc.dir
+/home/anonimus/C7_SmartCalc_v1.0-1/src/build-QSmartCalc-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/anonimus/C7_SmartCalc_v1.0-1/src/build-QSmartCalc-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/anonimus/C7_SmartCalc_v1.0-1/src/build-QSmartCalc-Desktop-Debug/CMakeFiles/CalcLib_autogen.dir
+/home/anonimus/C7_SmartCalc_v1.0-1/src/build-QSmartCalc-Desktop-Debug/CMakeFiles/QSmartCalc_autogen.dir

@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QSmartCalc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CalcLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CalcLib-Debug-7e2fb78f59449f80b7e4.json",
+					"name" : "CalcLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CalcLib_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CalcLib_autogen-Debug-0b7b0db6129a5e4bb0eb.json",
+					"name" : "CalcLib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QSmartCalc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QSmartCalc-Debug-9a622a088eb9850a7320.json",
+					"name" : "QSmartCalc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QSmartCalc_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QSmartCalc_autogen-Debug-ccf2017e13ddbb6998ef.json",
+					"name" : "QSmartCalc_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anonimus/C7_SmartCalc_v1.0-1/src/build-QSmartCalc-Desktop-Debug",
+		"source" : "/home/anonimus/C7_SmartCalc_v1.0-1/src/QSmartCalc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
