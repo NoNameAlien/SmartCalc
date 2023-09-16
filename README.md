@@ -5,6 +5,7 @@
 2. [Goals](#goals)
 3. [Build](#build)
 4. [Supported Operators & Functions](#supported-operators-&-functions)
+5. [Screenshots](#screenshots)
 
 ## Introduction
 SmartCalc is a program designed for performing various mathematical operations, such as calculation of expressions, plotting graphs, and supporting arithmetic operations and mathematical functions.
